@@ -7,5 +7,9 @@ public class HelloWorld {
         int a = 1;
 
         System.out.println("a is " + a);
+
+        for (a = 10; a <= 100; a++) {
+            System.out.println(a);
+        }
     }
 }
